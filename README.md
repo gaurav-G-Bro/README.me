@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on [Redrob.io](https://redrob.io/)
 
-- 🌱 I’m currently learning **django and Pytorch**
+- 🌱 I’m currently learning **Pytorch**
 
-- 💬 Ask me about **Nest.js Prisma MongoDB Node.js etc**
+- 💬 Ask me about **Backend (Node.js) Frontend (React.js) DevOps (DOCKER, KUBERNETES) Database (MongoDB, MySQL)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
